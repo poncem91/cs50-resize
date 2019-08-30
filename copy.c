@@ -1,3 +1,5 @@
+// file provided by CS50, I did not write any of the code in this file. File provided for reference to create resize.c
+
 // Copies a BMP file
 
 #include <stdio.h>
