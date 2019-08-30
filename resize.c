@@ -1,3 +1,5 @@
+// personal modification of the code in copy.c in order to resize the image. All modifications are my own.
+
 // Resizes a BMP file
 
 #include <stdio.h>
